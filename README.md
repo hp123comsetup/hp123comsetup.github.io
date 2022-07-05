@@ -1,4 +1,4 @@
-#123.hp.com/setup
+# 123.hp.com/setup
 
 
 [![123 hp setup](lets-get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
